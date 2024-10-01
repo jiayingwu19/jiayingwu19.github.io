@@ -1,0 +1,62 @@
+main:
+
+  - title: "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition"
+    authors: Shen Li, Jianqing Xu, <strong>Jiaying Wu</strong>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
+    conference_short: NeurIPS
+    conference: 38th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2409.17576
+    image: ./assets/img/2024_neurips_id3.jpg
+
+
+  - title: "Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks"
+    authors: <strong>Jiaying Wu</strong>, Jiafeng Guo, Bryan Hooi 
+    conference_short: KDD
+    conference: 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3637528.3671977
+    code: https://github.com/jiayingwu19/SheepDog
+    image: ./assets/img/2024_kdd_sheepdog.jpg
+
+
+  - title: "Proximity-Informed Calibration for Deep Neural Networks"
+    authors: Miao Xiong, Ailin Deng, Pang Wei Koh, <strong>Jiaying Wu</strong>, Shen Li, Jianqing Xu, Bryan Hooi
+    conference_short: NeurIPS
+    conference: 37th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf 
+    code: https://github.com/MiaoXiong2320/ProximityBias-Calibration
+    notes: Spotlight
+    image: ./assets/img/2023_neurips_procal.jpg
+
+
+  - title: "Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection"
+    authors: <strong>Jiaying Wu</strong>, Shen Li, Ailin Deng, Miao Xiong, Bryan Hooi
+    conference_short: CIKM
+    conference: 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3583780.3615015
+    code: https://github.com/jiayingwu19/Prompt-and-Align
+    image: ./assets/img/2023_cikm_pna.jpg
+
+
+  - title: "DECOR: Degree-Corrected Social Graph Refinement for Fake News Detection"
+    authors: <strong>Jiaying Wu</strong>, Bryan Hooi
+    conference_short: KDD
+    conference: 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3580305.3599298
+    code: https://github.com/jiayingwu19/DECOR
+    image: ./assets/img/2023_kdd_decor.jpg
+
+
+  - title: "Probabilistic Knowledge Distillation of Face Ensembles"
+    authors: Jianqing Xu, Shen Li, Ailin Deng, Miao Xiong, <strong>Jiaying Wu</strong>, Jiaxiang Wu, Shouhong Ding, Bryan Hooi
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Probabilistic_Knowledge_Distillation_of_Face_Ensembles_CVPR_2023_paper.pdf
+    image: ./assets/img/2023_cvpr_beakd.jpg
+
+
+  - title: "Probing Spurious Correlations in Popular Event-Based Rumor Detection Benchmarks"
+    authors: <strong>Jiaying Wu</strong>, Bryan Hooi
+    conference_short: ECML PKDD
+    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML PKDD)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2209.08799
+    code: https://github.com/jiayingwu19/PSA
+    image: ./assets/img/2022_ecmlpkdd_psa.jpg
