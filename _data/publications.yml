@@ -1,5 +1,13 @@
 main:
 
+  - title: "CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization"
+    authors: Yixi Ding, <strong>Jiaying Wu</strong>, Tongyao Zhu, Yanxia Qin, Qian Liu, Min-Yen Kan
+    conference_short: arXiv 
+    conference: arXiv preprint, 2024.
+    pdf: https://arxiv.org/pdf/2410.12601 
+    data: https://huggingface.co/datasets/dyxohjl666/CCSBench 
+    image: ./assets/img/2024_ccsbench.jpg
+
   - title: "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition"
     authors: Shen Li, Jianqing Xu, <strong>Jiaying Wu</strong>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
     conference_short: NeurIPS
