@@ -1,34 +1,105 @@
 main:
 
+  - title: "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation"
+    authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Min-Yen Kan
+    conference_short: Preprint
+    conference: arXiv:2510.11423, 2025.
+    pdf: https://arxiv.org/pdf/2510.11423
+    image: ./assets/img/2025_crowdnotesplus.jpg
+
+  - title: "Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models"
+    authors: <b><u>Jiaying Wu</u></b>, Fanxiao Li, Zihang Fu, Min-Yen Kan, Bryan Hooi
+    conference_short: Preprint
+    conference: arXiv:2505.15489, 2025.
+    pdf: https://arxiv.org/pdf/2505.15489
+    image: ./assets/img/2025_deceptiondecoded.jpg
+
+  - title: "JudgeLRM: Large Reasoning Models as a Judge"
+    authors: Nuo Chen, Zhiyuan Hu, Qingyun Zou, <b><u>Jiaying Wu</u></b>, Qian Wang, Bryan Hooi, Bingsheng He
+    conference_short: Preprint
+    conference: arXiv:2504.00050, 2025.
+    pdf: https://arxiv.org/pdf/2504.00050
+    code: https://github.com/NuoJohnChen/JudgeLRM
+    image: ./assets/img/2025_judgelrm.jpg
+
+  - title: "Efficient Inference for Large Reasoning Models: A Survey"
+    authors: Yue Liu<sup>*</sup>, <b><u>Jiaying Wu<sup>*</sup></u></b>, Yufei He<sup>*</sup>, Ruihan Gong<sup>*</sup>, Jun Xia, Liang Li, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi, Stan Z. Li, Keqin Li
+    conference_short: Preprint
+    conference: arXiv:2503.23077, 2025.
+    pdf: https://arxiv.org/pdf/2503.23077
+    paper_list: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
+    image: ./assets/img/2025_llm_survey.jpg
+
+  - title: "Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection"
+    authors: Herun Wan, <b><u>Jiaying Wu</u></b>, Minnan Luo, Zhi Zeng, Zhixiong Su
+    conference_short: NeurIPS
+    conference:	<strong>NeurIPS 2025</strong>
+    pdf: https://arxiv.org/pdf/2506.02350
+    code: https://github.com/whr000001/TruthOverTricks
+    image: ./assets/img/2025_neurips_truthovertricks.jpg
+  
+  - title: "ConfTuner: Training Large Language Models to Express Their Confidence Verbally"
+    authors: Yibo Li, Miao Xiong, <b><u>Jiaying Wu</u></b>, Bryan Hooi
+    conference_short: NeurIPS
+    conference:	<strong>NeurIPS 2025</strong>
+    pdf: https://arxiv.org/pdf/2508.18847
+    code: https://github.com/liushiliushi/ConfTuner
+    image: ./assets/img/2025_neurips_conftuner.jpg
+
+  - title: "MLR-Bench: Evaluating AI Agents on Open-Ended Machine Learning Research"
+    authors: Hui Chen, Miao Xiong, Yujie Lu, Wei Han, Ailin Deng, Yufei He, <b><u>Jiaying Wu</u></b>, Yibo Li, Yue Liu, Bryan Hooi
+    conference_short: NeurIPS D&B
+    conference:	<strong>NeurIPS 2025 (Datasets and Benchmarks)</strong>
+    pdf: https://arxiv.org/pdf/2505.19955
+    code: https://github.com/chchenhui/mlrbench
+    image: ./assets/img/2025_neurips_mlrbench.jpg
+
   - title: "CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization"
-    authors: Yixi Ding, <strong>Jiaying Wu</strong>, Tongyao Zhu, Yanxia Qin, Qian Liu, Min-Yen Kan
-    conference_short: arXiv 
-    conference: arXiv preprint, 2024.
-    pdf: https://arxiv.org/pdf/2410.12601 
-    data: https://huggingface.co/datasets/dyxohjl666/CCSBench 
-    image: ./assets/img/2024_ccsbench.jpg
+    authors: Yixi Ding, <b><u>Jiaying Wu<sup>†</sup></u></b>, Tongyao Zhu, Yanxia Qin, Qian Liu, Min-Yen Kan<sup>†</sup>
+    conference_short: KDD Workshop
+    conference:	<strong>KDD 2025 SciSoc LLM Workshop</strong>
+    pdf: https://www.arxiv.org/pdf/2410.12601
+    code: https://huggingface.co/datasets/dyxohjl666/CCSBench
+    notes: Oral
+    image: ./assets/img/2025_kddw_ccsbench.jpg
+
+  - title: "IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection"
+    authors: Zhi Zeng, <b><u>Jiaying Wu</u></b>, Minnan Luo, Herun Wan, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng
+    conference_short: ACL
+    conference:	<strong>ACL 2025</strong>
+    pdf: https://aclanthology.org/2025.acl-long.1494.pdf
+    code: https://github.com/zzeng1998/IMOL_misinformation
+    notes: Oral
+    image: ./assets/img/2025_acl_imol.jpg
+
+  - title: "CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection"
+    authors: Fanxiao Li, <b><u>Jiaying Wu</u></b>, Canyuan He, Wei Zhou
+    conference_short: ACL Findings
+    conference:	<strong>ACL Findings 2025</strong>
+    pdf: https://aclanthology.org/2025.findings-acl.487.pdf
+    code: https://github.com/fanxiao15/CMIE
+    image: ./assets/img/2025_acl_cmie.jpg
 
   - title: "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition"
-    authors: Shen Li, Jianqing Xu, <strong>Jiaying Wu</strong>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
+    authors: Shen Li, Jianqing Xu, <b><u>Jiaying Wu</u></b>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
     conference_short: NeurIPS
-    conference: 38th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2409.17576
+    conference: <strong>NeurIPS 2024</strong>
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/8e5b9dc3ff7172ff7689f932047e7852-Paper-Conference.pdf
     image: ./assets/img/2024_neurips_id3.jpg
 
-
   - title: "Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks"
-    authors: <strong>Jiaying Wu</strong>, Jiafeng Guo, Bryan Hooi 
+    authors: <b><u>Jiaying Wu</u></b>, Jiafeng Guo, Bryan Hooi 
     conference_short: KDD
-    conference: 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2024.
+    conference: <strong>KDD 2024</strong>
     pdf: https://dl.acm.org/doi/pdf/10.1145/3637528.3671977
     code: https://github.com/jiayingwu19/SheepDog
     image: ./assets/img/2024_kdd_sheepdog.jpg
 
 
   - title: "Proximity-Informed Calibration for Deep Neural Networks"
-    authors: Miao Xiong, Ailin Deng, Pang Wei Koh, <strong>Jiaying Wu</strong>, Shen Li, Jianqing Xu, Bryan Hooi
+    authors: Miao Xiong, Ailin Deng, Pang Wei Koh, <b><u>Jiaying Wu</u></b>, Shen Li, Jianqing Xu, Bryan Hooi
     conference_short: NeurIPS
-    conference: 37th Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    conference: <strong>NeurIPS 2023</strong>
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf 
     code: https://github.com/MiaoXiong2320/ProximityBias-Calibration
     notes: Spotlight
@@ -36,35 +107,35 @@ main:
 
 
   - title: "Prompt-and-Align: Prompt-Based Social Alignment for Few-Shot Fake News Detection"
-    authors: <strong>Jiaying Wu</strong>, Shen Li, Ailin Deng, Miao Xiong, Bryan Hooi
+    authors: <b><u>Jiaying Wu</u></b>, Shen Li, Ailin Deng, Miao Xiong, Bryan Hooi
     conference_short: CIKM
-    conference: 32nd ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2023.
+    conference: <strong>CIKM 2023</strong>
     pdf: https://dl.acm.org/doi/pdf/10.1145/3583780.3615015
     code: https://github.com/jiayingwu19/Prompt-and-Align
     image: ./assets/img/2023_cikm_pna.jpg
 
 
   - title: "DECOR: Degree-Corrected Social Graph Refinement for Fake News Detection"
-    authors: <strong>Jiaying Wu</strong>, Bryan Hooi
+    authors: <b><u>Jiaying Wu</u></b>, Bryan Hooi
     conference_short: KDD
-    conference: 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2023.
+    conference: <strong>KDD 2023</strong>
     pdf: https://dl.acm.org/doi/pdf/10.1145/3580305.3599298
     code: https://github.com/jiayingwu19/DECOR
     image: ./assets/img/2023_kdd_decor.jpg
 
 
   - title: "Probabilistic Knowledge Distillation of Face Ensembles"
-    authors: Jianqing Xu, Shen Li, Ailin Deng, Miao Xiong, <strong>Jiaying Wu</strong>, Jiaxiang Wu, Shouhong Ding, Bryan Hooi
+    authors: Jianqing Xu, Shen Li, Ailin Deng, Miao Xiong, <b><u>Jiaying Wu</u></b>, Jiaxiang Wu, Shouhong Ding, Bryan Hooi
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    conference: <strong>CVPR 2023</strong>
     pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Probabilistic_Knowledge_Distillation_of_Face_Ensembles_CVPR_2023_paper.pdf
     image: ./assets/img/2023_cvpr_beakd.jpg
 
 
   - title: "Probing Spurious Correlations in Popular Event-Based Rumor Detection Benchmarks"
-    authors: <strong>Jiaying Wu</strong>, Bryan Hooi
+    authors: <b><u>Jiaying Wu</u></b>, Bryan Hooi
     conference_short: ECML PKDD
-    conference: Joint European Conference on Machine Learning and Knowledge Discovery in Databases <strong>(ECML PKDD)</strong>, 2022.
+    conference: <strong>ECML-PKDD 2022</strong>
     pdf: https://arxiv.org/pdf/2209.08799
     code: https://github.com/jiayingwu19/PSA
     image: ./assets/img/2022_ecmlpkdd_psa.jpg
