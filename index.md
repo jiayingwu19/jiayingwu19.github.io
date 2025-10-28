@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome to Jiaying's Homepage!
 
-I am a postdoctoral Research Fellow at the [Centre for Trusted Internet and Community](https://ctic.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/), working with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and affiliated with [NUS Web IR / NLP Group (WING)](https://wing.comp.nus.edu.sg/). 
+I am a postdoctoral Research Fellow at the [Centre for Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/) at [National University of Singapore (NUS)](https://nus.edu.sg/), working with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) and affiliated with [NUS Web IR / NLP Group (WING)](https://wing.comp.nus.edu.sg/). 
 
 I completed my Ph.D. in Computer Science at NUS in 2024, where I was fortunate to work with Prof. [Bryan Hooi](https://bhooi.github.io/). 
 
