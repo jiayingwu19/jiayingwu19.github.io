@@ -48,7 +48,7 @@ main:
     authors: Herun Wan, <b><u>Jiaying Wu</u></b>, Minnan Luo, Zhi Zeng, Zhixiong Su
     conference_short: NeurIPS
     conference:	<strong>NeurIPS 2025</strong>
-    pdf: https://arxiv.org/pdf/2506.02350
+    pdf: https://openreview.net/pdf?id=ngxGNQE1M2
     code: https://github.com/whr000001/TruthOverTricks
     image: ./assets/img/2025_neurips_truthovertricks.jpg
   
@@ -56,7 +56,7 @@ main:
     authors: Yibo Li, Miao Xiong, <b><u>Jiaying Wu</u></b>, Bryan Hooi
     conference_short: NeurIPS
     conference:	<strong>NeurIPS 2025</strong>
-    pdf: https://arxiv.org/pdf/2508.18847
+    pdf: https://openreview.net/pdf?id=VZQ04Ojhu5
     code: https://github.com/liushiliushi/ConfTuner
     image: ./assets/img/2025_neurips_conftuner.jpg
 
@@ -64,7 +64,7 @@ main:
     authors: Hui Chen, Miao Xiong, Yujie Lu, Wei Han, Ailin Deng, Yufei He, <b><u>Jiaying Wu</u></b>, Yibo Li, Yue Liu, Bryan Hooi
     conference_short: NeurIPS D&B
     conference:	<strong>NeurIPS 2025 (Datasets and Benchmarks)</strong>
-    pdf: https://arxiv.org/pdf/2505.19955
+    pdf: https://openreview.net/pdf/1beff76c4772feee103f7de8f6fea17cf4accc51.pdf
     code: https://github.com/chchenhui/mlrbench
     image: ./assets/img/2025_neurips_mlrbench.jpg
 
@@ -72,7 +72,7 @@ main:
     authors: Yifei Xu, <b><u>Jiaying Wu<sup>†</sup></u></b>, Herun Wan, Yang Li, Zhen Hou, Min-Yen Kan<sup>†</sup>
     conference_short: CIKM
     conference:	<strong>CIKM 2025</strong>
-    pdf: https://arxiv.org/pdf/2510.08481
+    pdf: https://dl.acm.org/doi/10.1145/3746252.3760970
     code: https://github.com/cx-Yifei/BuzzProphet
     image: ./assets/img/2025_cikm_buzzprophet.jpg
 
