@@ -19,6 +19,7 @@ My research interests are at the intersection of natural language processing and
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting in 2026, and always open to collaborations. Feel free to get in touch by email.</font>
 
 ## News
+- **[Nov. 2025]** Two papers accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/).
 - **[Sep. 2025]** Featured in [NUS CTIC's September 2025 Newsletter](https://ctic.nus.edu.sg/newsletter06-sep2025.pdf).
 - **[Sep. 2025]** Three papers accepted to [NeurIPS 2025](https://neurips.cc/).
 - **[Aug. 2025]** One paper accepted to [CIKM 2025](https://cikm2025.org/).

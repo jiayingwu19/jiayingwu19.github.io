@@ -30,6 +30,20 @@ main:
     paper_list: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
     image: ./assets/img/2025_llm_survey.jpg
 
+  - title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection"
+    authors: Fanxiao Li, <b><u>Jiaying Wu</u></b>, Tingchao Fu, Yunyun Dong, Bingbing Song, Wei Zhou
+    conference_short: AAAI
+    conference:	<strong>AAAI 2026</strong>
+    pdf: https://arxiv.org/pdf/2508.12711
+    image: ./assets/img/2026_aaai_driftbench.jpg
+
+  - title: "Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference"
+    authors: Zhengjia Wang, Danding Wang, Qiang Sheng, <b><u>Jiaying Wu</u></b>, Juan Cao 
+    conference_short: AAAI
+    conference:	<strong>AAAI 2026</strong>
+    notes: Oral
+    image: ./assets/img/2026_aaai_omigraph.jpg
+
   - title: "Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection"
     authors: Herun Wan, <b><u>Jiaying Wu</u></b>, Minnan Luo, Zhi Zeng, Zhixiong Su
     conference_short: NeurIPS
