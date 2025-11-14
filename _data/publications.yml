@@ -31,7 +31,7 @@ main:
     image: ./assets/img/2025_llm_survey.jpg
 
   - title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection"
-    authors: Fanxiao Li, <b><u>Jiaying Wu<sup>†</sup></u></b>, Tingchao Fu, Yunyun Dong, Bingbing Song, Wei Zhou
+    authors: Fanxiao Li, <b><u>Jiaying Wu<sup>†</sup></u></b>, Tingchao Fu, Yunyun Dong, Bingbing Song, Wei Zhou<sup>†</sup>
     conference_short: AAAI
     conference:	<strong>AAAI 2026</strong>
     pdf: https://arxiv.org/pdf/2508.12711
