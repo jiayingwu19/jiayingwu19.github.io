@@ -11,10 +11,10 @@ I completed my Ph.D. in Computer Science at NUS in 2024, where I was fortunate t
 
 ## Research Interests
 
-My research interests are at the intersection of natural language processing and data mining, with a focus on:
-- **Misinformation and Disinformation:** Detection and governance of misleading, false or manipulated content. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
-- **Advancing Scientific Discovery & Communication:** Leveraging LLMs to accelerate knowledge discovery and bridge the gap between scientific findings and public understanding. (e.g., [MLR-Bench](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
-- **LLM Reasoning & Trustworthiness:** Advancing the reasoning capabilities, reliability, and transparency of LLMs in real-world decision-making contexts. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [Awesome-Efficient-Inference-for-LRMs](https://arxiv.org/pdf/2503.23077), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
+My research interests are at the intersection of natural language processing and data mining. Specifically, my research asks **how AI can actively strengthen public discourse** by developing reasoning-aware systems that: 
+- **Guard** against misleading, false or manipulated content (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
+- **Discover** and communicate evidence-grounded scientific knowledge (e.g., [MLR-Bench](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601)), and
+- **Converse** in ways that are reasoned, uncertainty-aware, and aligned with human values (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [Awesome-Efficient-Inference-for-LRMs](https://arxiv.org/pdf/2503.23077), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf)).
 
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting in 2026, and always open to collaborations. Feel free to get in touch by email.</font>
 
@@ -37,5 +37,5 @@ My research interests are at the intersection of natural language processing and
 {% include_relative _includes/services.md %}
 
 
-## Misc.
+## Miscellaneous
 With a B.Eng. in Computer Science and a Double Degree (B.A.) in English from [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/) (2016–2020), my years there sparked a lasting love for language. During this time, I became a [CATTI-certified](https://www.catticenter.com/wzjs/452) English–Chinese translator (Level 2) and interpreter (Level 3), and contributed to the English-to-Chinese translation of four books and one book series, all published in China. These experiences continue to shape how I think about communication and meaning.
