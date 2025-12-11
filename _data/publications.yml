@@ -43,6 +43,8 @@ main:
     conference_short: AAAI
     conference:	<strong>AAAI 2026</strong>
     notes: Oral
+    pdf: https://arxiv.org/pdf/2512.01728
+    code: https://github.com/ICTMCG/OmiGraph
     image: ./assets/img/2026_aaai_omigraph.jpg
 
   - title: "Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection"
