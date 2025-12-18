@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Organization</h4>
+<h4 style="margin:0 10px 0;">Organizer</h4>
 
 <ul style="margin:0 0 5px;">
   <li>Co-Organizer, <a href="https://workshop-llm-reasoning-planning.github.io/" target="_blank" rel="noopener noreferrer">
