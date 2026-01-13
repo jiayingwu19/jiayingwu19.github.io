@@ -1,7 +1,7 @@
 main:
 
   - title: "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation"
-    authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Min-Yen Kan
+    authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Jiafeng Guo, Preslav Nakov, Min-Yen Kan
     conference_short: Preprint
     conference: arXiv:2510.11423, 2025.
     pdf: https://arxiv.org/pdf/2510.11423
