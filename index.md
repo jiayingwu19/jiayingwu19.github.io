@@ -13,12 +13,13 @@ I completed my Ph.D. in Computer Science at NUS in 2024, where I was fortunate t
 
 My research interests are at the intersection of natural language processing and data mining. Specifically, my research asks **how AI can actively strengthen public discourse** by developing reasoning-aware systems that: 
 - **Guard** against misleading, false or manipulated content (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
-- **Discover** and communicate evidence-grounded scientific knowledge (e.g., [MLR-Bench](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601)), and
+- **Discover** and communicate evidence-grounded scientific knowledge (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601)), and
 - **Converse** in ways that are reasoned, uncertainty-aware, and aligned with human values (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [Awesome-Efficient-Inference-for-LRMs](https://arxiv.org/pdf/2503.23077), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf)).
 
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting in 2026, and always open to collaborations. Feel free to get in touch by email.</font>
 
 ## News
+- **[Jan. 2026]** One paper accepted to [WWW 2026](https://www2026.thewebconf.org/).
 - **[Nov. 2025]** Two papers accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (including one Oral).
 - **[Sep. 2025]** Featured in [NUS CTIC's September 2025 Newsletter](https://ctic.nus.edu.sg/newsletter06-sep2025.pdf).
 - **[Sep. 2025]** Three papers accepted to [NeurIPS 2025](https://neurips.cc/).
