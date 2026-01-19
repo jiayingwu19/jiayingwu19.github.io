@@ -11,10 +11,10 @@ I completed my Ph.D. in Computer Science at NUS in 2024, where I was fortunate t
 
 ## Research Interests
 
-My research interests are at the intersection of natural language processing and data mining. Specifically, my research asks **how AI can actively strengthen public discourse** by developing reasoning-aware systems that: 
+My research falls at the intersection of NLP and data mining. Specifically, my work investigates **how AI can actively strengthen public discourse** by developing tools and frameworks that:
 - **Guard** against misleading, false or manipulated content (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
 - **Discover** and communicate evidence-grounded scientific knowledge (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601)), and
-- **Converse** in ways that are reasoned, uncertainty-aware, and aligned with human values (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [Awesome-Efficient-Inference-for-LRMs](https://arxiv.org/pdf/2503.23077), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf)).
+- **Converse** in ways that are reasoned, uncertainty-aware, and aligned with human values (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf)).
 
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting in 2026, and always open to collaborations. Feel free to get in touch by email.</font>
 
