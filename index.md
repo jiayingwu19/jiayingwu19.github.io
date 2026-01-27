@@ -10,7 +10,7 @@ I completed my Ph.D. in Computer Science at NUS in 2024, where I was privileged 
 
 ## Research Interests
 
-My research falls at the intersection of NLP and data mining. Specifically, my work investigates **how AI can actively strengthen public discourse** by developing tools and frameworks that:
+My research falls at the intersection of NLP and data mining. Specifically, my work investigates **how AI can actively strengthen public discourse and empower human decision-making** by developing socially intelligent frameworks that:
 - **Guard** against misleading, false or manipulated content (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
 - **Discover** and communicate evidence-grounded scientific knowledge (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601)), and
 - **Converse** in ways that are reasoned, uncertainty-aware, and aligned with human values (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf)).
