@@ -7,13 +7,6 @@ main:
     pdf: https://arxiv.org/pdf/2510.11423
     image: ./assets/img/2025_crowdnotesplus.jpg
 
-  - title: "Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models"
-    authors: <b><u>Jiaying Wu</u></b>, Fanxiao Li, Zihang Fu, Min-Yen Kan, Bryan Hooi
-    conference_short: Preprint
-    conference: arXiv:2505.15489, 2025.
-    pdf: https://arxiv.org/pdf/2505.15489
-    image: ./assets/img/2025_deceptiondecoded.jpg
-
   - title: "JudgeLRM: Large Reasoning Models as a Judge"
     authors: Nuo Chen, Zhiyuan Hu, Qingyun Zou, <b><u>Jiaying Wu</u></b>, Qian Wang, Bryan Hooi, Bingsheng He
     conference_short: Preprint
@@ -29,6 +22,19 @@ main:
     pdf: https://arxiv.org/pdf/2503.23077
     paper_list: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
     image: ./assets/img/2025_llm_survey.jpg
+
+  - title: "Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models"
+    authors: <b><u>Jiaying Wu</u></b>, Fanxiao Li, Zihang Fu, Min-Yen Kan, Bryan Hooi
+    conference_short: ICLR
+    conference: <strong>ICLR 2026</strong>
+    pdf: https://arxiv.org/pdf/2505.15489
+    image: ./assets/img/2026_iclr_deceptiondecoded.jpg
+
+  - title: "From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild"
+    authors: Zhi Zeng<sup>*</sup>, Yifei Yang<sup>*</sup>, <b><u>Jiaying Wu<sup>†</sup></u></b>, Xulang Zhang, Xiangzheng Kong, Herun Wan, Zihan Ma and Minnan Luo<sup>†</sup>
+    conference_short: WWW
+    conference: <strong>WWW 2026</strong>
+    image: ./assets/img/2026_www_fakeagent.jpg
 
   - title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection"
     authors: Fanxiao Li, <b><u>Jiaying Wu<sup>†</sup></u></b>, Tingchao Fu, Yunyun Dong, Bingbing Song, Wei Zhou<sup>†</sup>
