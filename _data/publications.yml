@@ -7,14 +7,6 @@ main:
     pdf: https://arxiv.org/pdf/2510.11423
     image: ./assets/img/2025_crowdnotesplus.jpg
 
-  - title: "JudgeLRM: Large Reasoning Models as a Judge"
-    authors: Nuo Chen, Zhiyuan Hu, Qingyun Zou, <b><u>Jiaying Wu</u></b>, Qian Wang, Bryan Hooi, Bingsheng He
-    conference_short: Preprint
-    conference: arXiv:2504.00050, 2025.
-    pdf: https://arxiv.org/pdf/2504.00050
-    code: https://github.com/NuoJohnChen/JudgeLRM
-    image: ./assets/img/2025_judgelrm.jpg
-
   - title: "Efficient Inference for Large Reasoning Models: A Survey"
     authors: Yue Liu<sup>*</sup>, <b><u>Jiaying Wu<sup>*</sup></u></b>, Yufei He<sup>*</sup>, Ruihan Gong<sup>*</sup>, Jun Xia, Liang Li, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi, Stan Z. Li, Keqin Li
     conference_short: Preprint
