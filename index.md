@@ -10,10 +10,10 @@ I completed my Ph.D. in Computer Science at NUS in 2024, where I was fortunate t
 
 ## Research Interests
 
-My research falls at the intersection of **NLP and data mining**, with a focus on developing **socially intelligent agentic frameworks** for safe and reliable decision-making in the evolving and often chaotic information landscape. My work is organized around three core objectives:
-- **Guard:** Developing robust systems to protect against misleading, false, or manipulated content and improve information governance. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
-- **Discover:** Building agents that can autonomously synthesize and communicate evidence-grounded scientific knowledge. (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
-- **Converse:** Creating reasoning-capable and uncertainty-aware models that serve as intelligent mediators to facilitate constructive discourse and pluralistic alignment. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
+My research lies at the intersection of **NLP and data mining**, where I design **socially intelligent agentic systems** for safe and reliable decision-making in complex information ecosystems. My agenda is organized around three core objectives:
+- **Guard:** Securing information ecosystems against adversarial manipulation through socially-aware detection and governance frameworks. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
+- **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
+- **Converse:** Developing pluralistic, uncertainty-aware reasoning frameworks for decision-making under disagreement and epistemic ambiguity. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
 
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting in 2026, and always open to collaborations. Feel free to get in touch by email.</font>
 
