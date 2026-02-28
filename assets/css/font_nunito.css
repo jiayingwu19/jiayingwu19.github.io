@@ -17,8 +17,7 @@ body {
 .page-content b,
 .wrapper strong,
 .wrapper b {
-  font-weight: 650 !important;
-  color: #222;
+  font-weight: 700 !important;
 }
 
 .publications .title {

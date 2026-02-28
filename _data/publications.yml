@@ -113,7 +113,7 @@ main:
     image: ./assets/img/2025_acl_cmie.jpg
 
   - title: "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition"
-    authors: Shen Li, Jianqing Xu, <b><u>Jiaying Wu</u></b>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
+    authors: Shen Li<sup>*</sup>, Jianqing Xu<sup>*</sup>, <b><u>Jiaying Wu</u></b>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
     conference_short: NeurIPS
     conference: <strong>NeurIPS 2024</strong>
     pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/8e5b9dc3ff7172ff7689f932047e7852-Paper-Conference.pdf

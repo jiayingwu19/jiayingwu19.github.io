@@ -15,7 +15,7 @@ My research lies at the intersection of NLP and data mining, where I design **so
 - **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
 - **Converse:** Advancing pluralistic, uncertainty-aware reasoning frameworks for navigating disagreement, epistemic ambiguity, and competing values. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
 
-<font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b><font color="red">Summer/Fall 2026</font></b>, and always open to collaborations. Feel free to get in touch by email.</font>
+<font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b>Summer/Fall 2026</b>, and always open to collaborations. Feel free to get in touch by email.</font>
 
 ## News
 - **[Jan. 2026]** One paper accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
