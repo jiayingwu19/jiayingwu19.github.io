@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;650;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+
+body {
+  background-color: #fff;
+  padding: 0px;
+  font: 15.8px/1.5 'Nunito', sans-serif;
+  color: #595959;
+  font-weight: 400;
+  margin: 0;
+}
+
+.homepage strong,
+.homepage b,
+.page-content strong,
+.page-content b,
+.wrapper strong,
+.wrapper b {
+  font-weight: 650 !important;
+  color: #222;
+}
+
+.publications .title {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.publications .author {
+  font-size: 15px;
+  font-weight: 400;
+  color: #595959;
+}
+
+.publications .periodical {
+  font-size: 15px;
+  color: #222;
+}

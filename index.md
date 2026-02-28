@@ -4,18 +4,18 @@ layout: homepage
 
 ## Welcome to Jiaying's Homepage!
 
-I am a postdoctoral Research Fellow at [National University of Singapore (NUS)](https://nus.edu.sg/), working with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) as a member of the [NUS Web IR / NLP Group (WING)](https://wing.comp.nus.edu.sg/) and the [Centre for Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/). 
+I am a Postdoctoral Research Fellow at [National University of Singapore (NUS)](https://nus.edu.sg/), working with Prof. [Min-Yen Kan](https://www.comp.nus.edu.sg/~kanmy/) as a member of the [NUS Web IR / NLP Group (WING)](https://wing.comp.nus.edu.sg/) and the [NUS Centre for Trusted Internet and Community (CTIC)](https://ctic.nus.edu.sg/). 
 
-I completed my Ph.D. in Computer Science at NUS in 2024, where I was fortunate to be advised by Prof. [Bryan Hooi](https://bhooi.github.io/). 
+I received my Ph.D. in Computer Science from NUS in 2024, where I was advised by Prof. [Bryan Hooi](https://bhooi.github.io/). 
 
 ## Research Interests
 
-My research lies at the intersection of **NLP and data mining**, where I design **socially intelligent agentic systems** for safe and reliable decision-making in complex information ecosystems. My agenda is organized around three core objectives:
-- **Guard:** Securing information ecosystems against adversarial manipulation through socially-aware detection and governance frameworks. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
+My research lies at the intersection of NLP and data mining, where I design **socially intelligent agentic systems** for safe and reliable decision-making in complex information ecosystems. My agenda is organized around three core objectives:
+- **Guard:** Securing information ecosystems against harm and manipulation through socially-aware detection and governance frameworks. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
 - **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
 - **Converse:** Advancing pluralistic, uncertainty-aware reasoning frameworks for navigating disagreement, epistemic ambiguity, and competing values. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
 
-<font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting in 2026, and always open to collaborations. Feel free to get in touch by email.</font>
+<font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b><font color="red">Summer/Fall 2026</font></b>, and always open to collaborations. Feel free to get in touch by email.</font>
 
 ## News
 - **[Jan. 2026]** One paper accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
@@ -28,7 +28,7 @@ My research lies at the intersection of **NLP and data mining**, where I design 
 - **[May. 2025]** Two papers accepted to [ACL 2025](https://2025.aclweb.org/) (including one Oral).
 - **[May. 2025]** Invited to serve as Area Chair for [CIKM 2025](https://cikm2025.org/).
 - **[Jan. 2025]**  Co-organizing the [ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io). Submissions are welcome!
-- **[Nov. 2024]** Celebrating the success of SSNLP 2024! See our [event highlights](https://wing-nus.github.io/SSNLP-2024/), including the [photo album](https://drive.google.com/file/d/1-wL3lSgFA0oNiiTcWP-R_fiCApBIrlfN/view?usp=sharing). Looking forward to seeing everyone again at SSNLP 2025 :)
+- **[Nov. 2024]** Celebrating success of SSNLP 2024! See our [event highlights](https://wing-nus.github.io/SSNLP-2024/), including the [photo album](https://drive.google.com/file/d/1-wL3lSgFA0oNiiTcWP-R_fiCApBIrlfN/view?usp=sharing). Looking forward to seeing everyone again at SSNLP 2025 :)
 - **[Oct. 2024]** Serving as General Chair for the [2024 Singapore Symposium on Natural Language Processing (SSNLP 2024)](https://wing-nus.github.io/SSNLP-2024/). Stay tuned for more exciting updates!
 
 
@@ -38,5 +38,6 @@ My research lies at the intersection of **NLP and data mining**, where I design 
 {% include_relative _includes/services.md %}
 
 
-## Miscellaneous
-With a B.Eng. in Computer Science and a Double Degree (B.A.) in English from [Beijing Foreign Studies University (BFSU)](https://en.bfsu.edu.cn/) (2016–2020), my years there sparked a lasting love for language. During this time, I became a [CATTI-certified](https://www.catticenter.com/wzjs/452) English–Chinese translator (Level 2) and interpreter (Level 3), and contributed to the English-to-Chinese translation of four books and one book series, all published in China. These experiences continue to shape how I think about communication and meaning.
+## Beyond Research
+I completed a B.Eng. in Computer Science and a Double Degree (B.A.) in English at [Beijing Foreign Studies University](https://en.bfsu.edu.cn/) (2016–2020). Those years nurtured a deep appreciation for language, not only as structure but also as a medium through which ideas, values, and perspectives are shaped. During this time, I became a [CATTI-certified](https://www.catticenter.com/wzjs/452) English–Chinese translator (Level 2) and interpreter (Level 3), and contributed to the translation of four books and one book series published in China. These experiences continue to influence how I think about communication, meaning, and the design of socially intelligent systems.
+

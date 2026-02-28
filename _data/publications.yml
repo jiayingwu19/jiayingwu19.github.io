@@ -20,6 +20,7 @@ main:
     conference_short: ICLR
     conference: <strong>ICLR 2026</strong>
     pdf: https://arxiv.org/pdf/2505.15489
+    code: https://github.com/jiayingwu19/DeceptionDecoded
     image: ./assets/img/2026_iclr_deceptiondecoded.jpg
 
   - title: "From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild"
