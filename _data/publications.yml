@@ -19,7 +19,7 @@ main:
     authors: <b><u>Jiaying Wu</u></b>, Fanxiao Li, Zihang Fu, Min-Yen Kan, Bryan Hooi
     conference_short: ICLR
     conference: <strong>ICLR 2026</strong>
-    pdf: https://arxiv.org/pdf/2505.15489
+    pdf: https://openreview.net/pdf?id=02NbD16OnA
     code: https://github.com/jiayingwu19/DeceptionDecoded
     image: ./assets/img/2026_iclr_deceptiondecoded.jpg
 
