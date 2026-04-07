@@ -18,7 +18,8 @@ My research lies at the intersection of NLP and data mining, where I design **so
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b>Summer/Fall 2026</b>, and always open to collaborations. Feel free to get in touch by email.</font>
 
 ## News
-- **[Mar. 2026]** Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/).
+- **[Apr. 2026]** Six papers accepted to [ACL 2026](https://2026.aclweb.org/).
+- **[Mar. 2026]** Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/) and [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **[Jan. 2026]** One paper accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
 - **[Jan. 2026]** One paper accepted to [WWW 2026](https://www2026.thewebconf.org/).
 - **[Nov. 2025]** Two papers accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (including one Oral).

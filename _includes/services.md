@@ -14,7 +14,7 @@
 <h4 style="margin:0 10px 0;">Conference Area Chair / SPC</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>CIKM 2025</li>
+  <li>NeurIPS 2026; CIKM 2025, 2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer / PC Member</h4>

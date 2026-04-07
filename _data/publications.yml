@@ -1,12 +1,5 @@
 main:
 
-  - title: "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation"
-    authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Jiafeng Guo, Preslav Nakov, Min-Yen Kan
-    conference_short: Preprint
-    conference: arXiv:2510.11423, 2025.
-    pdf: https://arxiv.org/pdf/2510.11423
-    image: ./assets/img/2025_crowdnotesplus.jpg
-
   - title: "Efficient Inference for Large Reasoning Models: A Survey"
     authors: Yue Liu<sup>*</sup>, <b><u>Jiaying Wu<sup>*</sup></u></b>, Yufei He<sup>*</sup>, Ruihan Gong<sup>*</sup>, Jun Xia, Liang Li, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi, Stan Z. Li, Keqin Li
     conference_short: Preprint
@@ -14,6 +7,13 @@ main:
     pdf: https://arxiv.org/pdf/2503.23077
     paper_list: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
     image: ./assets/img/2025_llm_survey.jpg
+
+  - title: "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation"
+    authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Jiafeng Guo, Preslav Nakov, Min-Yen Kan
+    conference_short: ACL
+    conference: <strong>ACL 2026</strong>
+    pdf: https://arxiv.org/pdf/2510.11423
+    image: ./assets/img/2025_crowdnotesplus.jpg
 
   - title: "Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models"
     authors: <b><u>Jiaying Wu</u></b>, Fanxiao Li, Zihang Fu, Min-Yen Kan, Bryan Hooi
@@ -27,6 +27,8 @@ main:
     authors: Zhi Zeng<sup>*</sup>, Yifei Yang<sup>*</sup>, <b><u>Jiaying Wu<sup>†</sup></u></b>, Xulang Zhang, Xiangzheng Kong, Herun Wan, Zihan Ma and Minnan Luo<sup>†</sup>
     conference_short: WWW
     conference: <strong>WWW 2026</strong>
+    pdf: https://arxiv.org/pdf/2603.25423
+    code: https://github.com/Aiyistan/FakeAgent
     image: ./assets/img/2026_www_fakeagent.jpg
 
   - title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection"
