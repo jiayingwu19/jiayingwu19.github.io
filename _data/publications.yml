@@ -27,7 +27,7 @@ main:
     authors: Zhi Zeng<sup>*</sup>, Yifei Yang<sup>*</sup>, <b><u>Jiaying Wu<sup>†</sup></u></b>, Xulang Zhang, Xiangzheng Kong, Herun Wan, Zihan Ma and Minnan Luo<sup>†</sup>
     conference_short: WWW
     conference: <strong>WWW 2026</strong>
-    pdf: https://arxiv.org/pdf/2603.25423
+    pdf: https://dl.acm.org/doi/epdf/10.1145/3774904.3792721
     code: https://github.com/Aiyistan/FakeAgent
     image: ./assets/img/2026_www_fakeagent.jpg
 
