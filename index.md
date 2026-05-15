@@ -18,6 +18,7 @@ My research lies at the intersection of NLP and data mining, where I design **so
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b>Summer/Fall 2026</b>, and always open to collaborations. Feel free to get in touch by email.</font>
 
 ## News
+- **[May 2026]** Recognized as a [Gold Reviewer](https://x.com/icmlconf/status/2054696826851234151) for [ICML 2026](https://icml.cc/Conferences/2026).
 - **[Apr. 2026]** Six papers accepted to [ACL 2026](https://2026.aclweb.org/).
 - **[Mar. 2026]** Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/) and [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **[Jan. 2026]** One paper accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
@@ -27,8 +28,8 @@ My research lies at the intersection of NLP and data mining, where I design **so
 - **[Sep. 2025]** Three papers accepted to [NeurIPS 2025](https://neurips.cc/).
 - **[Aug. 2025]** One paper accepted to [CIKM 2025](https://cikm2025.org/).
 - **[Jul. 2025]** One paper accepted to [ACM MM 2025](https://acmmm2025.org/).
-- **[May. 2025]** Two papers accepted to [ACL 2025](https://2025.aclweb.org/) (including one Oral).
-- **[May. 2025]** Invited to serve as Area Chair for [CIKM 2025](https://cikm2025.org/).
+- **[May 2025]** Two papers accepted to [ACL 2025](https://2025.aclweb.org/) (including one Oral).
+- **[May 2025]** Invited to serve as Area Chair for [CIKM 2025](https://cikm2025.org/).
 - **[Jan. 2025]**  Co-organizing the [ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io). Submissions are welcome!
 - **[Nov. 2024]** Celebrating success of SSNLP 2024! See our [event highlights](https://wing-nus.github.io/SSNLP-2024/), including the [photo album](https://drive.google.com/file/d/1-wL3lSgFA0oNiiTcWP-R_fiCApBIrlfN/view?usp=sharing). Looking forward to seeing everyone again at SSNLP 2025 :)
 - **[Oct. 2024]** Serving as General Chair for the [2024 Singapore Symposium on Natural Language Processing (SSNLP 2024)](https://wing-nus.github.io/SSNLP-2024/). Stay tuned for more exciting updates!
