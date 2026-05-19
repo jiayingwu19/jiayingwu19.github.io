@@ -20,7 +20,7 @@ My research lies at the intersection of NLP and data mining, where I design **so
 ## News
 - **[May 2026]** One paper accepted to [KDD 2026](https://kdd2026.kdd.org/).
 - **[May 2026]** Recognized as a [Gold Reviewer](https://x.com/icmlconf/status/2054696826851234151) for [ICML 2026](https://icml.cc/Conferences/2026).
-- **[Apr. 2026]** Six papers accepted to [ACL 2026](https://2026.aclweb.org/).
+- **[Apr. 2026]** Six papers accepted to [ACL 2026](https://2026.aclweb.org/) (including one Oral).
 - **[Mar. 2026]** Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/) and [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
 - **[Jan. 2026]** One paper accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
 - **[Jan. 2026]** One paper accepted to [WWW 2026](https://www2026.thewebconf.org/).

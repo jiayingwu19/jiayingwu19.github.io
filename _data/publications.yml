@@ -13,6 +13,8 @@ main:
     conference_short: ACL
     conference: <strong>ACL 2026</strong>
     pdf: https://arxiv.org/pdf/2510.11423
+    code: https://github.com/jiayingwu19/CrowdNotesPlus
+    notes: Oral
     image: ./assets/img/2025_crowdnotesplus.jpg
 
   - title: "Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models"
