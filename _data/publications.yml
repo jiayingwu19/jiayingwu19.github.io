@@ -2,11 +2,11 @@ main:
 
   - title: "Efficient Inference for Large Reasoning Models: A Survey"
     authors: Yue Liu<sup>*</sup>, <b><u>Jiaying Wu<sup>*</sup></u></b>, Yufei He<sup>*</sup>, Ruihan Gong<sup>*</sup>, Jun Xia, Liang Li, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi, Stan Z. Li, Keqin Li
-    conference_short: Preprint
-    conference: arXiv:2503.23077, 2025.
+    conference_short: IEEE T-PAMI
+    conference: <strong>IEEE T-PAMI 2026</strong>
     pdf: https://arxiv.org/pdf/2503.23077
     paper_list: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
-    image: ./assets/img/2025_llm_survey.jpg
+    image: ./assets/img/2026_llm_survey.jpg
 
   - title: "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation"
     authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Jiafeng Guo, Preslav Nakov, Min-Yen Kan
