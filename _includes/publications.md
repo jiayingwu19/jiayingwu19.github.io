@@ -6,7 +6,7 @@
   <p>
     Please see my <a href="https://scholar.google.com/citations?user=mrfO62wAAAAJ">Google Scholar</a> for a full, up-to-date list.
     <br>
-    <em>( <sup>*</sup> indicates equal contribution, <sup>†</sup> indicates corresponding author.) </em>
+    <em>( <sup>*</sup> Equal Contribution, <sup>^</sup> Mentorship) </em>
   </p>
 
 {% for link in site.data.publications.main %}
@@ -32,9 +32,6 @@
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.paper_list %} 
-      <a href="{{ link.paper_list }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper List</a>
       {% endif %}
       {% if link.data %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>

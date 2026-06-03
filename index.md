@@ -12,29 +12,38 @@ I received my Ph.D. in Computer Science from NUS in 2024, where I was advised by
 
 My research lies at the intersection of NLP and data mining, where I design **socially intelligent agentic systems** for safe and reliable decision-making in complex information ecosystems. My agenda is organized around three core objectives:
 - **Guard:** Securing information ecosystems against harm and manipulation through socially-aware detection and governance frameworks. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
-- **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
+- **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [XtraGPT](https://arxiv.org/pdf/2505.11336), [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
 - **Converse:** Advancing pluralistic, uncertainty-aware reasoning frameworks for navigating disagreement, epistemic ambiguity, and competing values. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
 
 <font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b>Summer/Fall 2026</b>, and always open to collaborations. Feel free to get in touch by email.</font>
 
+
+<div style="height: 15px;"></div>
+
 ## News
-- **[May 2026]** One paper accepted to [IEEE T-PAMI](https://www.computer.org/csdl/journal/tp).
-- **[May 2026]** One paper accepted to [KDD 2026](https://kdd2026.kdd.org/).
-- **[May 2026]** Recognized as a [Gold Reviewer](https://x.com/icmlconf/status/2054696826851234151) for [ICML 2026](https://icml.cc/Conferences/2026).
-- **[Apr. 2026]** Six papers accepted to [ACL 2026](https://2026.aclweb.org/) (including one Oral).
-- **[Mar. 2026]** Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/) and [CIKM 2026](https://cikm2026.diag.uniroma1.it/).
-- **[Jan. 2026]** One paper accepted to [ICLR 2026](https://iclr.cc/Conferences/2026).
-- **[Jan. 2026]** One paper accepted to [WWW 2026](https://www2026.thewebconf.org/).
-- **[Nov. 2025]** Two papers accepted to [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/) (including one Oral).
-- **[Sep. 2025]** Featured in [NUS CTIC's September 2025 Newsletter](https://ctic.nus.edu.sg/newsletter06-sep2025.pdf).
-- **[Sep. 2025]** Three papers accepted to [NeurIPS 2025](https://neurips.cc/).
-- **[Aug. 2025]** One paper accepted to [CIKM 2025](https://cikm2025.org/).
-- **[Jul. 2025]** One paper accepted to [ACM MM 2025](https://acmmm2025.org/).
-- **[May 2025]** Two papers accepted to [ACL 2025](https://2025.aclweb.org/) (including one Oral).
-- **[May 2025]** Invited to serve as Area Chair for [CIKM 2025](https://cikm2025.org/).
-- **[Jan. 2025]**  Co-organizing the [ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io). Submissions are welcome!
-- **[Nov. 2024]** Celebrating success of SSNLP 2024! See our [event highlights](https://wing-nus.github.io/SSNLP-2024/), including the [photo album](https://drive.google.com/file/d/1-wL3lSgFA0oNiiTcWP-R_fiCApBIrlfN/view?usp=sharing). Looking forward to seeing everyone again at SSNLP 2025 :)
-- **[Oct. 2024]** Serving as General Chair for the [2024 Singapore Symposium on Natural Language Processing (SSNLP 2024)](https://wing-nus.github.io/SSNLP-2024/). Stay tuned for more exciting updates!
+<div style="max-height:215px; overflow-y:auto; padding-right:12px; margin-bottom:24px;">
+
+<ul>
+  <li><strong>[May 2026]</strong> One paper accepted to <a href="https://www.computer.org/csdl/journal/tp">IEEE T-PAMI</a>.</li>
+  <li><strong>[May 2026]</strong> One paper accepted to <a href="https://kdd2026.kdd.org/">KDD 2026</a>.</li>
+  <li><strong>[May 2026]</strong> Recognized as a <a href="https://x.com/icmlconf/status/2054696826851234151">Gold Reviewer</a> for <a href="https://icml.cc/Conferences/2026">ICML 2026</a>.</li>
+  <li><strong>[Apr. 2026]</strong> Six papers accepted to <a href="https://2026.aclweb.org/">ACL 2026</a> (including one Oral).</li>
+  <li><strong>[Mar. 2026]</strong> Invited to serve as Area Chair for <a href="https://neurips.cc/">NeurIPS 2026</a> and <a href="https://cikm2026.diag.uniroma1.it/">CIKM 2026</a>.</li>
+  <li><strong>[Jan. 2026]</strong> One paper accepted to <a href="https://iclr.cc/Conferences/2026">ICLR 2026</a>.</li>
+  <li><strong>[Jan. 2026]</strong> One paper accepted to <a href="https://www2026.thewebconf.org/">WWW 2026</a>.</li>
+  <li><strong>[Nov. 2025]</strong> Two papers accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a> (including one Oral).</li>
+  <li><strong>[Sep. 2025]</strong> Featured in <a href="https://ctic.nus.edu.sg/newsletter06-sep2025.pdf">NUS CTIC's September 2025 Newsletter</a>.</li>
+  <li><strong>[Sep. 2025]</strong> Three papers accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
+  <li><strong>[Aug. 2025]</strong> One paper accepted to <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
+  <li><strong>[Jul. 2025]</strong> One paper accepted to <a href="https://acmmm2025.org/">ACM MM 2025</a>.</li>
+  <li><strong>[May 2025]</strong> Two papers accepted to <a href="https://2025.aclweb.org/">ACL 2025</a> (including one Oral).</li>
+  <li><strong>[May 2025]</strong> Invited to serve as Area Chair for <a href="https://cikm2025.org/">CIKM 2025</a>.</li>
+  <li><strong>[Jan. 2025]</strong> Co-organizing the <a href="https://workshop-llm-reasoning-planning.github.io">ICLR 2025 Workshop on Reasoning and Planning for Large Language Models</a>. Submissions are welcome!</li>
+  <li><strong>[Nov. 2024]</strong> Celebrating success of SSNLP 2024! See our <a href="https://wing-nus.github.io/SSNLP-2024/">event highlights</a>, including the <a href="https://drive.google.com/file/d/1-wL3lSgFA0oNiiTcWP-R_fiCApBIrlfN/view?usp=sharing">photo album</a>. Looking forward to seeing everyone again at SSNLP 2025 :)</li>
+  <li><strong>[Oct. 2024]</strong> Serving as General Chair for the <a href="https://wing-nus.github.io/SSNLP-2024/">2024 Singapore Symposium on Natural Language Processing (SSNLP 2024)</a>. Stay tuned for more exciting updates!</li>
+</ul>
+
+</div>
 
 
 

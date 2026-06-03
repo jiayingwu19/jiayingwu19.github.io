@@ -1,12 +1,35 @@
 main:
 
+  - title: "Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes"
+    authors: Zihang Fu<sup>^</sup>, Fanxiao Li, Jianyang Gu, Haonan Wang, Preslav Nakov, Bryan Hooi, Min-Yen Kan, <b><u>Jiaying Wu</u></b>
+    conference_short: arXiv
+    conference: <strong>arXiv preprint 2026</strong>
+    pdf: https://arxiv.org/pdf/2606.02215
+    image: ./assets/img/2026_arxiv_evonote.jpg
+
+  - title: "The Deliberative Illusion: Diagnosing Factual Attrition and Stance Homogenization in Multi-Agent LLM Deliberation"
+    authors: Herun Wan<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Minnan Luo, Fanxiao Li, Ningnan Wang, Nancy F. Chen, Min-Yen Kan
+    conference_short: arXiv
+    conference: <strong>arXiv preprint 2026</strong>
+    pdf: https://arxiv.org/pdf/2606.03032
+    code: https://github.com/whr000001/DelibTrace
+    image: ./assets/img/2026_arxiv_delibtrace.jpg
+
+  - title: "FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems"
+    authors: Fanxiao Li<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Tingchao Fu, Natasha Jaques, Wei Zhou, Min-Yen Kan
+    conference_short: arXiv
+    conference: <strong>arXiv preprint 2026</strong>
+    pdf: https://arxiv.org/pdf/2605.11514
+    code: https://github.com/fanxiao15/FlowSteer
+    image: ./assets/img/2026_arxiv_flowsteer.jpg
+
   - title: "Efficient Inference for Large Reasoning Models: A Survey"
     authors: Yue Liu<sup>*</sup>, <b><u>Jiaying Wu<sup>*</sup></u></b>, Yufei He<sup>*</sup>, Ruihan Gong<sup>*</sup>, Jun Xia, Liang Li, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi, Stan Z. Li, Keqin Li
     conference_short: IEEE T-PAMI
     conference: <strong>IEEE T-PAMI 2026</strong>
     pdf: https://arxiv.org/pdf/2503.23077
-    paper_list: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
-    image: ./assets/img/2026_llm_survey.jpg
+    page: https://github.com/yueliu1999/Awesome-Efficient-Inference-for-LRMs
+    image: ./assets/img/2026_tpami_survey.jpg
 
   - title: "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation"
     authors: <b><u>Jiaying Wu<sup>*</sup></u></b>, Zihang Fu<sup>*</sup>, Haonan Wang, Fanxiao Li, Jiafeng Guo, Preslav Nakov, Min-Yen Kan
@@ -15,7 +38,30 @@ main:
     pdf: https://arxiv.org/pdf/2510.11423
     code: https://github.com/jiayingwu19/CrowdNotesPlus
     notes: Oral
-    image: ./assets/img/2025_crowdnotesplus.jpg
+    image: ./assets/img/2026_acl_crowdnotes.jpg
+
+  - title: "What's Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews"
+    authors: Fanxiao Li<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Tingchao Fu, Dayang Li, Herun Wan, Wei Zhou, Min-Yen Kan
+    conference_short: ACL
+    conference: <strong>ACL 2026</strong>
+    pdf: https://arxiv.org/pdf/2601.05563
+    code: https://github.com/fanxiao15/OMGuard
+    image: ./assets/img/2026_acl_omguard.jpg
+
+  - title: "XtraGPT: Context-Aware and Controllable Academic Paper Revision via Human-AI Collaboration"
+    authors: Nuo Chen, Andre Lin HuiKai, <b><u>Jiaying Wu</u></b>, Junyi Hou, Zining Zhang, Qian Wang, Xidong Wang, Bingsheng He 
+    conference_short: ACL
+    conference: <strong>ACL 2026</strong>
+    pdf: https://arxiv.org/pdf/2505.11336
+    code: https://github.com/Xtra-Computing/XtraGPT
+    image: ./assets/img/2026_acl_xtragpt.jpg
+
+  - title: "Quantitative Computational Validation of Nanoscale Interactions between Drug Molecules and Diabetic Wound-Related Proteins for Drug Discovery"
+    authors: Ziyang Zhang, Yanxia Qin, ..., <b><u>Jiaying Wu</u></b>, Chen-Hua Yeow, Min-Yen Kan, Giorgia Pastorin 
+    conference_short: ACS Nano Medicine
+    conference: <strong>ACS Nano Medicine 2026</strong>
+    pdf: https://pubs.acs.org/doi/abs/10.1021/acsnanomed.5c00180
+    image: ./assets/img/2026_acs_nanomed.jpg
 
   - title: "Seeing Through Deception: Uncovering Misleading Creator Intent in Multimodal News with Vision-Language Models"
     authors: <b><u>Jiaying Wu</u></b>, Fanxiao Li, Zihang Fu, Min-Yen Kan, Bryan Hooi
@@ -24,22 +70,6 @@ main:
     pdf: https://openreview.net/pdf?id=02NbD16OnA
     code: https://github.com/jiayingwu19/DeceptionDecoded
     image: ./assets/img/2026_iclr_deceptiondecoded.jpg
-
-  - title: "From Manipulation to Mistrust: Explaining Diverse Micro-Video Misinformation for Robust Debunking in the Wild"
-    authors: Zhi Zeng<sup>*</sup>, Yifei Yang<sup>*</sup>, <b><u>Jiaying Wu<sup>†</sup></u></b>, Xulang Zhang, Xiangzheng Kong, Herun Wan, Zihan Ma and Minnan Luo<sup>†</sup>
-    conference_short: WWW
-    conference: <strong>WWW 2026</strong>
-    pdf: https://dl.acm.org/doi/epdf/10.1145/3774904.3792721
-    code: https://github.com/Aiyistan/FakeAgent
-    image: ./assets/img/2026_www_fakeagent.jpg
-
-  - title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection"
-    authors: Fanxiao Li, <b><u>Jiaying Wu<sup>†</sup></u></b>, Tingchao Fu, Yunyun Dong, Bingbing Song, Wei Zhou<sup>†</sup>
-    conference_short: AAAI
-    conference:	<strong>AAAI 2026</strong>
-    pdf: https://arxiv.org/pdf/2508.12711
-    code: https://github.com/fanxiao15/DriftBench
-    image: ./assets/img/2026_aaai_driftbench.jpg
 
   - title: "Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference"
     authors: Zhengjia Wang, Danding Wang, Qiang Sheng, <b><u>Jiaying Wu</u></b>, Juan Cao 
@@ -51,7 +81,7 @@ main:
     image: ./assets/img/2026_aaai_omigraph.jpg
 
   - title: "Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection"
-    authors: Herun Wan, <b><u>Jiaying Wu</u></b>, Minnan Luo, Zhi Zeng, Zhixiong Su
+    authors: Herun Wan<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Minnan Luo, Zhi Zeng, Zhixiong Su
     conference_short: NeurIPS
     conference:	<strong>NeurIPS 2025</strong>
     pdf: https://openreview.net/pdf?id=ngxGNQE1M2
@@ -74,24 +104,8 @@ main:
     code: https://github.com/chchenhui/mlrbench
     image: ./assets/img/2025_neurips_mlrbench.jpg
 
-  - title: "Forecasting the Buzz: Enriching Hashtag Popularity Prediction with LLM Reasoning"
-    authors: Yifei Xu, <b><u>Jiaying Wu<sup>†</sup></u></b>, Herun Wan, Yang Li, Zhen Hou, Min-Yen Kan<sup>†</sup>
-    conference_short: CIKM
-    conference:	<strong>CIKM 2025</strong>
-    pdf: https://dl.acm.org/doi/10.1145/3746252.3760970
-    code: https://github.com/cx-Yifei/BuzzProphet
-    image: ./assets/img/2025_cikm_buzzprophet.jpg
-
-  - title: "Understand, Refine and Summarize: Multi-View Knowledge Progressive Enhancement Learning for Fake News Video Detection"
-    authors: Zhi Zeng, <b><u>Jiaying Wu</u></b>, Minnan Luo, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng
-    conference_short: ACM MM
-    conference:	<strong>ACM MM 2025</strong>
-    pdf: https://dl.acm.org/doi/pdf/10.1145/3746027.3754551 
-    code: https://github.com/zzeng1998/EvidSV
-    image: ./assets/img/2025_mm_muke.jpg
-
   - title: "CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization"
-    authors: Yixi Ding, <b><u>Jiaying Wu<sup>†</sup></u></b>, Tongyao Zhu, Yanxia Qin, Qian Liu, Min-Yen Kan<sup>†</sup>
+    authors: Yixi Ding<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Tongyao Zhu, Yanxia Qin, Qian Liu, Min-Yen Kan
     conference_short: KDD Workshop
     conference:	<strong>KDD 2025 SciSoc LLM Workshop</strong>
     pdf: https://www.arxiv.org/pdf/2410.12601
@@ -100,21 +114,13 @@ main:
     image: ./assets/img/2025_kddw_ccsbench.jpg
 
   - title: "IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection"
-    authors: Zhi Zeng, <b><u>Jiaying Wu</u></b>, Minnan Luo, Herun Wan, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng
+    authors: Zhi Zeng<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Minnan Luo, Herun Wan, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng
     conference_short: ACL
     conference:	<strong>ACL 2025</strong>
     pdf: https://aclanthology.org/2025.acl-long.1494.pdf
     code: https://github.com/zzeng1998/IMOL_misinformation
     notes: Oral
     image: ./assets/img/2025_acl_imol.jpg
-
-  - title: "CMIE: Combining MLLM Insights with External Evidence for Explainable Out-of-Context Misinformation Detection"
-    authors: Fanxiao Li, <b><u>Jiaying Wu</u></b>, Canyuan He, Wei Zhou
-    conference_short: ACL Findings
-    conference:	<strong>ACL Findings 2025</strong>
-    pdf: https://aclanthology.org/2025.findings-acl.487.pdf
-    code: https://github.com/fanxiao15/CMIE
-    image: ./assets/img/2025_acl_cmie.jpg
 
   - title: "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition"
     authors: Shen Li<sup>*</sup>, Jianqing Xu<sup>*</sup>, <b><u>Jiaying Wu</u></b>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
