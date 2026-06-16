@@ -1,5 +1,13 @@
 main:
 
+  - title: "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"
+    authors: Jundong Xu<sup>*</sup>, Qingchuan Li<sup>*</sup>, <b><u>Jiaying Wu</u></b>, Yihuai Lan, Shuyue Stella Li, Huichi Zhou, Bowen Jiang, Lei Wang, Jun Wang, Anh Tuan Luu, Caiming Xiong, Hae Won Park, Bryan Hooi, Zhiyuan Hu
+    conference_short: arXiv
+    conference: <strong>arXiv preprint 2026</strong>
+    pdf: https://arxiv.org/pdf/2606.13681
+    code: https://github.com/Aiden0526/EvoArena
+    image: ./assets/img/2026_arxiv_evoarena.jpg
+
   - title: "Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes"
     authors: Zihang Fu<sup>^</sup>, Fanxiao Li, Jianyang Gu, Haonan Wang, Preslav Nakov, Bryan Hooi, Min-Yen Kan, <b><u>Jiaying Wu</u></b>
     conference_short: arXiv
