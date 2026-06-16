@@ -15,10 +15,11 @@ My research lies at the intersection of NLP and data mining, where I design **so
 - **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [XtraGPT](https://arxiv.org/pdf/2505.11336), [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
 - **Converse:** Advancing pluralistic, uncertainty-aware reasoning frameworks for navigating disagreement, epistemic ambiguity, and competing values. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
 
-<font color="red">I am currently on the job market, seeking research opportunities in both academia and industry (including postdoc positions) starting <b>Summer/Fall 2026</b>, and always open to collaborations. Feel free to get in touch by email.</font>
+I am always open to discussing collaborations on the above topics. Feel free to get in touch by email! :)
 
 
-<div style="height: 15px;"></div>
+
+<div style="height: 5px;"></div>
 
 ## News
 <div style="max-height:215px; overflow-y:auto; padding-right:12px; margin-bottom:24px;">
