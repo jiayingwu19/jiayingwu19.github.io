@@ -10,7 +10,7 @@
       ICLR 2025 Workshop on Reasoning and Planning for LLMs
     </a></li>
   <li>General Chair, <a href="https://wing-nus.github.io/SSNLP-2024/" target="_blank" rel="noopener noreferrer">
-      2024 Singapore Symposium on Natural Language Processing (SSNLP 2024)
+      2024 Singapore Symposium on Natural Language Processing
     </a></li>
 </ul>
 
