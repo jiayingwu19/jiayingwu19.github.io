@@ -24,7 +24,7 @@ I am always open to discussing collaborations on the above topics. Feel free to 
 <div style="max-height:215px; overflow-y:auto; padding-right:12px; margin-bottom:24px;">
 
 <ul>
-  <li><strong>[Jul. 2026]</strong> We organized <a href="https://civic-ai-collaboration.github.io/2026/">CIVIC-AI 2026: Workshop on Collaborative Intelligence and the Future of Work</a> in collaboration with <a href="https://cs.stanford.edu/~diyiy/group.html">Stanford SALT Lab</a>. Visit the <a href="https://civic-ai-collaboration.github.io/">CIVIC-AI webpage</a> for highlights and future updates!</li>
+  <li><strong>[Jul. 2026]</strong> We organized <a href="https://civic-ai-collaboration.github.io/2026/">CIVIC-AI 2026: Workshop on Collaborative Intelligence and the Future of Work</a> in collaboration with the <a href="https://cs.stanford.edu/~diyiy/group.html">Stanford SALT Lab</a>. Visit the <a href="https://civic-ai-collaboration.github.io/">CIVIC-AI webpage</a> for highlights and future updates!</li>
   <li><strong>[May 2026]</strong> One paper accepted to <a href="https://www.computer.org/csdl/journal/tp">IEEE T-PAMI</a>.</li>
   <li><strong>[May 2026]</strong> One paper accepted to <a href="https://kdd2026.kdd.org/">KDD 2026</a>.</li>
   <li><strong>[May 2026]</strong> Recognized as a <a href="https://x.com/icmlconf/status/2054696826851234151">Gold Reviewer</a> for <a href="https://icml.cc/Conferences/2026">ICML 2026</a>.</li>
