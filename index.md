@@ -10,10 +10,14 @@ I received my Ph.D. in Computer Science from NUS in 2024, where I was advised by
 
 ## Research Interests
 
-My research lies at the intersection of NLP and data mining, where I design **socially intelligent agentic systems** for safe and reliable decision-making in complex information ecosystems. My agenda is organized around three core objectives:
-- **Guard:** Securing information ecosystems against harm and manipulation through socially-aware detection and governance frameworks. (e.g., [CrowdNotes+](https://arxiv.org/pdf/2510.11423), [DeceptionDecoded](https://arxiv.org/pdf/2505.15489), [IMOL](https://aclanthology.org/2025.acl-long.1494.pdf), [SheepDog](https://dl.acm.org/doi/pdf/10.1145/3637528.3671977), [DECOR](https://dl.acm.org/doi/pdf/10.1145/3580305.3599298))
-- **Discover:** Automating evidence-grounded knowledge synthesis and communication via agentic retrieval and reasoning systems. (e.g., [XtraGPT](https://arxiv.org/pdf/2505.11336), [MLR-Agent](https://arxiv.org/pdf/2505.19955), [CCSBench](https://www.arxiv.org/pdf/2410.12601))
-- **Converse:** Advancing pluralistic, uncertainty-aware reasoning frameworks for navigating disagreement, epistemic ambiguity, and competing values. (e.g., [ConfTuner](https://arxiv.org/pdf/2508.18847), [JudgeLRM](https://arxiv.org/pdf/2504.00050), [ProCal](https://proceedings.neurips.cc/paper_files/paper/2023/file/d826f5aadb26db488b8686097ceea2d1-Paper-Conference.pdf))
+My research develops **socially intelligent AI agents** that can reason about latent human and social states, uncertain information, and the consequences of interaction over time. This agenda builds on my work on **trustworthy information ecosystems**, where I studied how hidden intent, social context, and uncertain evidence affect reliable decision-making.
+
+This work spans three connected directions:
+- **Understand: What latent state matters?** Modeling latent human, epistemic, and social states that support reliable decision-making, including intent, interpretation, and uncertainty. (e.g., [DeceptionDecoded](https://openreview.net/pdf?id=02NbD16OnA), [What’s Left Unsaid?](https://aclanthology.org/2026.acl-long.293.pdf), and [ConfTuner](https://openreview.net/pdf?id=VZQ04Ojhu5))
+- **Act: What intervention is appropriate?** Building agents that support human decisions and complex knowledge workflows through grounded reasoning and iterative assistance. (e.g., [CrowdNotes+](https://aclanthology.org/2026.acl-long.233.pdf), [XtraGPT](https://aclanthology.org/2026.acl-long.47.pdf), and [MLR-Agent](https://proceedings.neurips.cc/paper_files/paper/2025/file/ab8dd000d6f87f40061a73f8bca7fae4-Paper-Datasets_and_Benchmarks_Track.pdf))
+- **Evolve: How do states change through interaction?** Studying how interaction, memory, and changing environments shape future behavior and agent adaptation. (e.g., [EvoNote](https://arxiv.org/pdf/2606.02215), [EvoArena](https://arxiv.org/pdf/2606.13681), and [DelibTrace](https://arxiv.org/pdf/2606.03032))
+
+Long term, I aim to build a foundation for **long-horizon social intelligence**, where agents can model evolving humans, anticipate the effects of their interventions, and learn safely over extended interaction.
 
 I am always open to discussing collaborations on the above topics. Feel free to get in touch by email! :)
 
@@ -24,6 +28,7 @@ I am always open to discussing collaborations on the above topics. Feel free to 
 <div style="max-height:215px; overflow-y:auto; padding-right:12px; margin-bottom:24px;">
 
 <ul>
+  <li><strong>[Aug. 2026]</strong> Four papers accepted to <a href="https://2026.emnlp.org/">EMNLP 2026</a>.</li>
   <li><strong>[Jul. 2026]</strong> We organized <a href="https://civic-ai-collaboration.github.io/2026/">CIVIC-AI 2026: Workshop on Collaborative Intelligence and the Future of Work</a> in collaboration with the <a href="https://cs.stanford.edu/~diyiy/group.html">Stanford SALT Lab</a>. Visit the <a href="https://civic-ai-collaboration.github.io/">CIVIC-AI webpage</a> for highlights and future updates!</li>
   <li><strong>[May 2026]</strong> One paper accepted to <a href="https://www.computer.org/csdl/journal/tp">IEEE T-PAMI</a>.</li>
   <li><strong>[May 2026]</strong> One paper accepted to <a href="https://kdd2026.kdd.org/">KDD 2026</a>.</li>

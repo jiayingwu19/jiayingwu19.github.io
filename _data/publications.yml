@@ -8,13 +8,6 @@ main:
     code: https://github.com/Aiden0526/EvoArena
     image: ./assets/img/2026_arxiv_evoarena.jpg
 
-  - title: "Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes"
-    authors: Zihang Fu<sup>^</sup>, Fanxiao Li, Jianyang Gu, Haonan Wang, Preslav Nakov, Bryan Hooi, Min-Yen Kan, <b><u>Jiaying Wu</u></b>
-    conference_short: arXiv
-    conference: <strong>arXiv preprint 2026</strong>
-    pdf: https://arxiv.org/pdf/2606.02215
-    image: ./assets/img/2026_arxiv_evonote.jpg
-
   - title: "The Deliberative Illusion: Diagnosing Factual Attrition and Stance Homogenization in Multi-Agent LLM Deliberation"
     authors: Herun Wan<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Minnan Luo, Fanxiao Li, Ningnan Wang, Nancy F. Chen, Min-Yen Kan
     conference_short: arXiv
@@ -30,6 +23,14 @@ main:
     pdf: https://arxiv.org/pdf/2605.11514
     code: https://github.com/fanxiao15/FlowSteer
     image: ./assets/img/2026_arxiv_flowsteer.jpg
+
+
+  - title: "Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes"
+    authors: Zihang Fu<sup>^</sup>, Fanxiao Li, Jianyang Gu, Haonan Wang, Preslav Nakov, Bryan Hooi, Min-Yen Kan, <b><u>Jiaying Wu</u></b>
+    conference_short: EMNLP Findings
+    conference: <strong>EMNLP 2026 Findings</strong>
+    pdf: https://arxiv.org/pdf/2606.02215
+    image: ./assets/img/2026_arxiv_evonote.jpg
 
   - title: "Efficient Inference for Large Reasoning Models: A Survey"
     authors: Yue Liu<sup>*</sup>, <b><u>Jiaying Wu<sup>*</sup></u></b>, Yufei He<sup>*</sup>, Ruihan Gong<sup>*</sup>, Jun Xia, Liang Li, Hongcheng Gao, Hongyu Chen, Baolong Bi, Jiaheng Zhang, Zhiqi Huang, Bryan Hooi, Stan Z. Li, Keqin Li
@@ -79,15 +80,6 @@ main:
     code: https://github.com/jiayingwu19/DeceptionDecoded
     image: ./assets/img/2026_iclr_deceptiondecoded.jpg
 
-  - title: "Reasoning About the Unsaid: Misinformation Detection with Omission-Aware Graph Inference"
-    authors: Zhengjia Wang, Danding Wang, Qiang Sheng, <b><u>Jiaying Wu</u></b>, Juan Cao 
-    conference_short: AAAI
-    conference:	<strong>AAAI 2026</strong>
-    notes: Oral
-    pdf: https://arxiv.org/pdf/2512.01728
-    code: https://github.com/ICTMCG/OmiGraph
-    image: ./assets/img/2026_aaai_omigraph.jpg
-
   - title: "Truth over Tricks: Measuring and Mitigating Shortcut Learning in Misinformation Detection"
     authors: Herun Wan<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Minnan Luo, Zhi Zeng, Zhixiong Su
     conference_short: NeurIPS
@@ -112,15 +104,6 @@ main:
     code: https://github.com/chchenhui/mlrbench
     image: ./assets/img/2025_neurips_mlrbench.jpg
 
-  - title: "CCSBench: Evaluating Compositional Controllability in LLMs for Scientific Document Summarization"
-    authors: Yixi Ding<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Tongyao Zhu, Yanxia Qin, Qian Liu, Min-Yen Kan
-    conference_short: KDD Workshop
-    conference:	<strong>KDD 2025 SciSoc LLM Workshop</strong>
-    pdf: https://www.arxiv.org/pdf/2410.12601
-    code: https://huggingface.co/datasets/dyxohjl666/CCSBench
-    notes: Oral
-    image: ./assets/img/2025_kddw_ccsbench.jpg
-
   - title: "IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection"
     authors: Zhi Zeng<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Minnan Luo, Herun Wan, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng
     conference_short: ACL
@@ -129,13 +112,6 @@ main:
     code: https://github.com/zzeng1998/IMOL_misinformation
     notes: Oral
     image: ./assets/img/2025_acl_imol.jpg
-
-  - title: "ID3: Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition"
-    authors: Shen Li<sup>*</sup>, Jianqing Xu<sup>*</sup>, <b><u>Jiaying Wu</u></b>, Miao Xiong, Ailin Deng, Jiazhen Ji, Yuge Huang, Wenjie Feng, Shouhong Ding, Bryan Hooi
-    conference_short: NeurIPS
-    conference: <strong>NeurIPS 2024</strong>
-    pdf: https://proceedings.neurips.cc/paper_files/paper/2024/file/8e5b9dc3ff7172ff7689f932047e7852-Paper-Conference.pdf
-    image: ./assets/img/2024_neurips_id3.jpg
 
   - title: "Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks"
     authors: <b><u>Jiaying Wu</u></b>, Jiafeng Guo, Bryan Hooi 
@@ -172,14 +148,6 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3580305.3599298
     code: https://github.com/jiayingwu19/DECOR
     image: ./assets/img/2023_kdd_decor.jpg
-
-
-  - title: "Probabilistic Knowledge Distillation of Face Ensembles"
-    authors: Jianqing Xu, Shen Li, Ailin Deng, Miao Xiong, <b><u>Jiaying Wu</u></b>, Jiaxiang Wu, Shouhong Ding, Bryan Hooi
-    conference_short: CVPR
-    conference: <strong>CVPR 2023</strong>
-    pdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Probabilistic_Knowledge_Distillation_of_Face_Ensembles_CVPR_2023_paper.pdf
-    image: ./assets/img/2023_cvpr_beakd.jpg
 
 
   - title: "Probing Spurious Correlations in Popular Event-Based Rumor Detection Benchmarks"
