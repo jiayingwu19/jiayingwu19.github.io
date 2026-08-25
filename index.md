@@ -12,7 +12,7 @@ I received my Ph.D. in Computer Science from NUS in 2024, where I was advised by
 
 My research develops **socially intelligent AI agents** that can reason about latent human and social states, uncertain information, and the consequences of interaction over time. This agenda builds on my work on **trustworthy information ecosystems**, where I studied how hidden intent, social context, and uncertain evidence affect reliable decision-making.
 
-This work spans three connected directions:
+I pursue three connected research directions:
 - **Understand: What latent state matters?** Modeling latent human, epistemic, and social states that support reliable decision-making, including intent, interpretation, and uncertainty. (e.g., [DeceptionDecoded](https://openreview.net/pdf?id=02NbD16OnA), [What’s Left Unsaid?](https://aclanthology.org/2026.acl-long.293.pdf), and [ConfTuner](https://openreview.net/pdf?id=VZQ04Ojhu5))
 - **Act: What intervention is appropriate?** Building agents that support human decisions and complex knowledge workflows through grounded reasoning and iterative assistance. (e.g., [CrowdNotes+](https://aclanthology.org/2026.acl-long.233.pdf), [XtraGPT](https://aclanthology.org/2026.acl-long.47.pdf), and [MLR-Agent](https://proceedings.neurips.cc/paper_files/paper/2025/file/ab8dd000d6f87f40061a73f8bca7fae4-Paper-Datasets_and_Benchmarks_Track.pdf))
 - **Evolve: How do states change through interaction?** Studying how interaction, memory, and changing environments shape future behavior and agent adaptation. (e.g., [EvoNote](https://arxiv.org/pdf/2606.02215), [EvoArena](https://arxiv.org/pdf/2606.13681), and [DelibTrace](https://arxiv.org/pdf/2606.03032))
