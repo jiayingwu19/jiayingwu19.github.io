@@ -5,6 +5,8 @@
 <ul style="margin:0 0 5px;">
   <li>Lead Organizer, <a href="https://civic-ai-collaboration.github.io/2026/" target="_blank" rel="noopener noreferrer">
       CIVIC-AI 2026: Workshop on Collaborative Intelligence and the Future of Work
+    </a><a href="https://arxiv.org/pdf/2609.12482" target="_blank" rel="noopener noreferrer">
+      [Workshop Whitepaper]
     </a></li>
   <li>Co-Organizer, <a href="https://workshop-llm-reasoning-planning.github.io/" target="_blank" rel="noopener noreferrer">
       ICLR 2025 Workshop on Reasoning and Planning for LLMs
@@ -17,7 +19,7 @@
 <h4 style="margin:0 10px 0;">Conference Area Chair / SPC</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>NeurIPS 2026; CIKM 2025, 2026</li>
+  <li>ICLR 2027; NeurIPS 2026; CIKM 2025, 2026</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer / PC Member</h4>

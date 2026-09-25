@@ -18,11 +18,11 @@ main:
 
   - title: "FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems"
     authors: Fanxiao Li<sup>^</sup>, <b><u>Jiaying Wu</u></b>, Tingchao Fu, Natasha Jaques, Wei Zhou, Min-Yen Kan
-    conference_short: arXiv
-    conference: <strong>arXiv preprint 2026</strong>
+    conference_short: NeurIPS
+    conference: <strong>NeurIPS 2026</strong>
     pdf: https://arxiv.org/pdf/2605.11514
     code: https://github.com/fanxiao15/FlowSteer
-    image: ./assets/img/2026_arxiv_flowsteer.jpg
+    image: ./assets/img/2026_neurips_flowsteer.jpg
 
 
   - title: "Better with Experience: Self-Evolving LLM Agents for Evidence-Grounded Health Community Notes"
